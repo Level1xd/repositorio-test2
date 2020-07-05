@@ -1,0 +1,33 @@
+
+.contact-form_{
+	font-size: 25px;
+
+}
+.contact-form__h2{
+   font-size: 2em;
+   font-family: cursive;
+   font-weight: 100;
+   color: red;
+   position: relative;
+   bottom: 50px;
+   right: -500px;
+}
+
+p.big{
+	color: green;
+	font-size: 30px;
+	font-family: font-weight;
+	position: relative;
+    bottom: -75px;
+    right: -50px;
+}
+
+p{
+   color: black;
+   font-size: 18px;
+   font-family: cursive;
+   position: relative;
+   bottom: -50px;
+   right: -50px;
+
+}
